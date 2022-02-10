@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+.navbardiv{
+  text-align: center;
+}
+.navbar {
+  color: white;
+  border: 14px 25px;
+  text-align: center;
+  text-decoration: none;  
+  font-size: 25px;
+  
+  border: 10px;
+  border-color: white;
+  padding: 10px;
+}
