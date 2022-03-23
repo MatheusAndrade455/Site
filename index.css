@@ -10,6 +10,7 @@ body {
 
 .navbardiv {
   text-align: center;
+  padding-bottom: 25px;
 }
 .navbar {
   color: black;
@@ -24,7 +25,7 @@ body {
   color: white;
   text-align: center;
   font-size: 30px;
-  margin-bottom: 200px;  
+  margin-bottom: 170px;  
 }
 
 .contato {
