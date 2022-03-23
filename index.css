@@ -23,7 +23,7 @@ body {
 .nome {
   color: white;
   text-align: center;
-  font-size: 50px;
+  font-size: 30px;
   margin-bottom: 200px;  
 }
 
@@ -34,6 +34,13 @@ body {
 
 .link{
   color: black;
+}
+
+.border{
+  border: 3px solid white;
+  padding-left: 400px;
+  padding-right: 400px;
+  padding-bottom: 250px;
 }
 
 /*Botões Socias*/
@@ -113,6 +120,13 @@ body {
   text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.1);
 }
 
+.wrapper .download:hover,
+.wrapper .download:hover .tooltip,
+.wrapper .download:hover .tooltip::before {
+  background-color: #40bd27;
+  color: #ffffff;
+}
+
 .wrapper .linkedIn:hover,
 .wrapper .linkedIn:hover .tooltip,
 .wrapper .linkedIn:hover .tooltip::before {
@@ -175,4 +189,14 @@ button:hover {
 
 button:focus {
 	outline: none;
+}
+
+/*Página de Certificados*/
+
+.cert{
+  border-bottom: 3px solid white;
+}
+
+.cert_text{
+  color: white;
 }
