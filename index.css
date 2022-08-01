@@ -41,9 +41,12 @@ table {
 }
 
 .cdt{
-  background-color: #ffffff;
-  padding-left: 850px;
-  padding-top: 400px;
+  background-color: #ffffff;  
+  padding: 20px;
+  margin-bottom: 300px;
+  margin-right: 100px;
+  margin-left: 100px;
+  
 }
 
 /*Botões Socias*/
